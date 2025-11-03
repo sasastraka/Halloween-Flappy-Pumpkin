@@ -13,10 +13,10 @@
 - Náhodně generovaná výška mezer
 
 ## Body a skóre
-- Hráč získává bod za každou překonanou překážku
+- Hráč získává bod za každou překonanou překážUku
 - Zobrazení skóre v rohu obrazovky
 
-## Ui a další prvky
+## UI a další prvky
 - Start menu
 - Tlačítko restartu po skončení hry
 - Možnost nastavení hlasitosti nebo zvuků
