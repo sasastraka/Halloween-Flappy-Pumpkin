@@ -1,20 +1,20 @@
 # Kapitola 2: Game Design
 
 ## Herní prostředí
-- 2D scéna s pozadím (např. obloha, mraky)
+- 2D scéna s pozadím (např. temná obloha, mraky, měsíc)
 - Statické nebo mírně pohybující se pozadí pro efekt rychlosti
 
 ## Postava
-- Pták, kterého hráč ovládá
-- Animace křídel (volitelně)
+- Dýně, kterou hráč ovládá
+- Animace (volitelně)
 
 ## Překážky
-- Vertikální sloupce s mezerou pro průlet ptáka
+- Vertikální sloupce s mezerou pro průlet dýně
 - Náhodně generovaná výška mezer
 
 ## Body a skóre
-- Hráč získává bod za každou překonanou překážUku
-- Zobrazení skóre v rohu obrazovky
+- Hráč získává bod za každou překonanou překážku
+- Zobrazení skóre v levém rohu obrazovky
 
 ## UI a další prvky
 - Start menu
