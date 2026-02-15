@@ -1,11 +1,11 @@
 # Kapitola 1: Základní koncepce hry
 
 ## Hlavní myšlenka
-Hráč ovládá ptáka, který automaticky letí vpřed. Hráč klikáním nebo stiskem tlačítka způsobuje, že pták "skáče" nahoru. Cílem je vyhnout se překážkám a nasbírat co nejvíce bodů.  
+Hráč ovládá dýni, která automaticky letí vpřed. Hráč pomocí klikem na mezerník nebo stiskem levého tlačítka na myší způsobuje, že dýně "skáče" nahoru. Cílem je vyhnout se překážkám a nasbírat co nejvíce bodů.  
 
 ## Mechaniky
 - Automatický pohyb vpřed
-- Kliknutí způsobí skok ptáka
+- Kliknutí způsobí skok dýně
 - Kolize s překážkou znamená konec hry
 - Po překonání překážky hráč získává bod
 
