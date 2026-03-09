@@ -1,7 +1,7 @@
 # Halloween-Flappy-Pumpkin
 
 ## Autoři
-- Alexandr Straka
+- Bc. Mudr. Alexandr Straka
 
 ## Popis
 Halloween Flappy Pumpkin je jednoduchá 2D hra inspirovaná hrou Flappy Bird, ale tato verze má Halloweenský motiv. Hráč ovládá dýni, která musí překonávat překážky a sbírat body. Cílem hry je dosáhnout co nejvyššího skóre.  
