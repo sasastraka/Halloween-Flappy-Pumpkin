@@ -1,22 +1,15 @@
-# Kapitola 2: Game Design
+# 02 Game Design a herní mechaniky
 
-## Herní prostředí
-- 2D scéna s pozadím (např. temná obloha, mraky, měsíc)
-- Statické nebo mírně pohybující se pozadí pro efekt rychlosti
+## Fyzikální model
+Jádrem hratelnosti je simulace gravitace. Postava dýně má definovanou vertikální rychlost, na kterou neustále působí gravitační konstanta. Hráč svým zásahem udělí dýni negativní vertikální impulz, čímž dýně "vzletí".
 
-## Postava
-- Dýně, kterou hráč ovládá
-- Animace (volitelně)
+## Detekce kolizí
+Kolizní systém pracuje na principu AABB (Axis-Aligned Bounding Box). V každém snímku hra porovnává souřadnice dýně se souřadnicemi aktuálně zobrazených náhrobků. Pokud dojde k překryv, vyvolá se stav "Game Over".
 
-## Překážky
-- Vertikální sloupce s mezerou pro průlet dýně
-- Náhodně generovaná výška mezer
+## Dynamická obtížnost
+Aby hra nebyla po čase nudná, implementoval jsem algoritmus pro zvyšování obtížnosti:
+- **Zmenšování mezer:** Počáteční mezera se postupně snižuje ze 280px na 170px.
+- **Zrychlování:** Rychlost posunu náhrobků se lineárně zvyšuje v závislosti na dosažených bodech.
 
-## Body a skóre
-- Hráč získává bod za každou překonanou překážku
-- Zobrazení skóre v levém rohu obrazovky
-
-## UI a další prvky
-- Start menu
-- Tlačítko restartu po skončení hry
-- Možnost nastavení hlasitosti nebo zvuků
+---
+[🏠 Zpět na hlavní menu](README.md)
