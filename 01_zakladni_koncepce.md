@@ -1,13 +1,13 @@
-# Kapitola 1: Základní koncepce hry
+# 01 Základní koncepce projektu
 
-## Hlavní myšlenka
-Hráč ovládá dýni, která automaticky letí vpřed. Hráč pomocí klikem na mezerník nebo stiskem levého tlačítka na myší způsobuje, že dýně "skáče" nahoru. Cílem je vyhnout se překážkám a nasbírat co nejvíce bodů.  
+## Úvod
+Projekt "Halloween Flappy Pumpkin" vznikl jako moderní variace na klasickou arkádovou hru Flappy Bird. Cílem bylo vytvořit webovou aplikaci, která využívá moderní standardy HTML a JavaScriptu pro plynulý herní zážitek bez nutnosti stahování assetů.
 
-## Mechaniky
-- Automatický pohyb vpřed
-- Kliknutí způsobí skok dýně
-- Kolize s překážkou znamená konec hry
-- Po překonání překážky hráč získává bod
+## Hlavní vize
+Hra je zasazena do halloweenského prostředí. Hlavní hrdina je dýně a překážky tvoří staré náhrobky. Projekt se zaměřuje na intuitivní hratelnost a postupně se zvyšující obtížnost.
 
-## Motivace
-Hra je jednoduchá, zábavná a rychle pochopitelná. Je vhodná pro krátké herní session.
+## Cílová skupina
+Hra je cílena na casual hráče všech věkových kategorií, kteří hledají krátkodobé odreagování. Díky ukládání rekordů má hra i kompetitivní charakter.
+
+---
+[🏠 Zpět na hlavní menu](README.md)
