@@ -18,11 +18,11 @@ Atmosférická webová arkáda vytvořená pro školní projekt. Hra využívá 
 
 Všechny kapitoly vývoje jsou podrobně rozepsány v následujících sekcích:
 
-*   [01 Základní koncepce](01-zakladni-koncepce.md) -> Úvod do projektu, použité technologie a celkový záměr.
-*   [02 Game design](02-game-design.md) -> Podrobný popis herních mechanik, fyziky a pravidel.
-*   [03 Grafika](03-grafika.md) -> Vizuální styl, procedurální kreslení dýně a náhrobků.
-*   [04 Audio](04-audio.md) -> Programové generování zvuků a hudby přes Web Audio API.
-*   [05 Implementace](05-implementace.md) -> Průběh kódování, herní smyčka a správa stavů.
-*   [06 Propagace](06-propagace.md) -> Způsob zveřejnění a cílení na hráče.
-*   [07 Finální hra](07-finalni-hra.md) -> Představení kompletní hratelné verze a opravy chyb.
-*   [08 Závěr](08-zaver.md) -> Zhodnocení výsledků, sebereflexe a plány do budoucna.
+*   [01 Základní koncepce](01_zakladni-koncepce.md) -> Úvod do projektu, použité technologie a celkový záměr.
+*   [02 Game design](02_game-design.md) -> Podrobný popis herních mechanik, fyziky a pravidel.
+*   [03 Grafika](03_grafika.md) -> Vizuální styl, procedurální kreslení dýně a náhrobků.
+*   [04 Audio](04_audio.md) -> Programové generování zvuků a hudby přes Web Audio API.
+*   [05 Implementace](05_implementace.md) -> Průběh kódování, herní smyčka a správa stavů.
+*   [06 Propagace](06_propagace.md) -> Způsob zveřejnění a cílení na hráče.
+*   [07 Finální hra](07_finalni-hra.md) -> Představení kompletní hratelné verze a opravy chyb.
+*   [08 Závěr](08_zaver.md) -> Zhodnocení výsledků, sebereflexe a plány do budoucna.
