@@ -1,6 +1,7 @@
 # Halloween Flappy Pumpkin 🎃
 
 **Autor:** Alexandr Straka
+
 **Verze:** 1.0 (Final Release)
 
 Atmosférická webová arkáda vytvořená pro školní projekt. Hra využívá moderní technologie webového prohlížeče k simulaci herní fyziky a generování grafiky i audia v reálném čase.
