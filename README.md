@@ -8,7 +8,7 @@ Atmosférická webová arkáda vytvořená pro školní projekt. Hra využívá 
 
 ## 🚀 Jak hru spustit
 
-*   **Online verze:** [Hraj zde na GitHub Pages](ZDE_VLOZ_ODKAZ_Z_SETTINGS_PAGES)
+*   **Online verze:** [Hraj zde na GitHub Pages](https://sasastraka.github.io/Halloween-Flappy-Pumpkin/)
 *   **Ovládání:** 
     *   `Mezerník` nebo `Levé tlačítko myši` = Skok (Flap)
     *   `ESC` = Pozastavení hry
